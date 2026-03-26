@@ -1,6 +1,11 @@
+<!-- Background Banner (Red Gradient) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff4d4d&height=200&section=header&text=Harsh%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">
   <a href="https://github.com/harshbhagat411">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1200&color=808080&center=true&width=435&lines=Hi%2C+I%27m+Harsh+Bhagat+%E2%9C%8C%EF%B8%8F" alt="Hi! I'm Harsh Bhagat" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1200&color=ff4d4d&center=true&width=435&lines=Hi%2C+I%27m+Harsh+Bhagat+%F0%9F%98%8E" alt="Hi! I'm Harsh Bhagat" />
   </a>
 </h1>
 
@@ -12,16 +17,15 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Instagram Added -->
 <a href="https://www.instagram.com/harshui.ux/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 
 </p>
 
-<!-- Graph color changed to blue gradient style -->
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshbhagat411&theme=react-dark&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true)](https://github.com/harshbhagat411)
+<!-- Red Activity Graph -->
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshbhagat411&theme=react-dark&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/harshbhagat411)
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=harshbhagat411&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhagat411" /> 
+<img src="https://komarev.com/ghpvc/?username=harshbhagat411&label=Profile%20views&color=ff0000&style=flat" alt="harshbhagat411" /> 
 </p>
