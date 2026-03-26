@@ -1,6 +1,6 @@
 <!-- Background Banner (Red Gradient) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff4d4d&height=200&section=header&text=Harsh%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Harsh%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeInRight" />
 </p>
 
 <h1 align="center">
